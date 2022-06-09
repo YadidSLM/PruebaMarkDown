@@ -47,3 +47,18 @@ function saludar()
   console.log("Hola");
 }
 ```
+1. El título del proyecto
+2. Descripción del proyecto
+a. Explicación de lo que hace tu proyecto
+b. Expresar la importancia de tu proyecto
+c. Listar las tecnologías utilizadas
+3. Instrucciones de instalación del proyecto
+a. En el caso de que se necesite instalar otros programas, debe indicarse cuáles y cómo hacerlo
+b. Deben listarse los pasos a seguir para instalar y ejecutar tu proyecto
+4. Instrucciones de uso del proyecto
+a. Debe haber instrucciones para que los usuarios sepan cómo se usa tu proyecto
+b. También debe haber información para que otros programadores sepan cómo está organizado tu código
+i. Debemos explicar el propósito y organización de los archivos del proyecto más importantes
+5. Los créditos de aquellos que trabajaron
+a. Explica quiénes y qué hicieron cada cosa en el proyecto
+6. En caso de ser necesaria, la licencia del proyecto
